@@ -1,6 +1,11 @@
 - https://marchouben.github.io/next-for-dummies
 - https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/
 
+Beveiliging kan leiden tot problemen:
+
+- Branch "main" is not allowed to deploy to github-pages due to environment protection rules.
+- The deployment was rejected or didn't satisfy other protection rules.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
